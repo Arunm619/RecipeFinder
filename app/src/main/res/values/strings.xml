@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <string name="wwyltmQuestionText">What would you like to make?</string>
+    <string name="enter_ingredients">Enter Ingredients</string>
+    <string name="search_term">Search Term</string>
+    <string name="search">Search</string>
+    <string name="share">Share</string>
+    <string name="more">More</string>
+</resources>
